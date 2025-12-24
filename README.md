@@ -1,2 +1,36 @@
-# responsive-hamburger-menu
-A simple beginner-friendly TODO List application built using HTML, CSS, and JavaScript.   This project is part of a coding challenge to improve basic JavaScript DOM manipulation skills. 
+#  Hamburger Menu UI
+
+A simple and responsive **Hamburger Menu UI** built using **HTML, CSS, and JavaScript**.  
+This project is created as part of a sample assignment to demonstrate responsive navigation and basic DOM manipulation.
+
+---
+
+## 📌 Features
+
+- Responsive hamburger menu
+- Smooth open and close animation
+- Mobile-friendly navigation
+- Clean and simple UI
+- Beginner-friendly code structure
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+---
+
+## 📂 Project Structure 
+
+hamburger-menu-ui/ │ ├── index.html ├── css/ │   └── style.css ├── js/ │   └── script.js └── README.md
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/hamburger-menu-ui.git
