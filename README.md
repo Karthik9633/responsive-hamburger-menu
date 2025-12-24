@@ -33,4 +33,4 @@ hamburger-menu-ui/ │ ├── index.html ├── css/ │   └── style
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/hamburger-menu-ui.git
+   git clone https://github.com/Karthik9633/responsive-hamburger-menu.git
