@@ -25,7 +25,14 @@ This project is created as part of a sample assignment to demonstrate responsive
 
 ## 📂 Project Structure 
 
-hamburger-menu-ui/ │ ├── index.html ├── css/ │   └── style.css ├── js/ │   └── script.js └── README.md
+hamburger-menu-ui/<br>
+│ <br>
+├── index.html <br>
+├── css/ <br>
+│   └── style.css <br>
+├── js/ <br>
+│   └── script.js <br>
+└── README.md
 
 ---
 
